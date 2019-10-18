@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Logo">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-Logo)">
+    <g id="Grupo_3" data-name="Grupo 3" transform="translate(-14.088 7.231)">
+      <g id="Grupo_2" data-name="Grupo 2" transform="translate(117.325 84.461)">
+        <text id="DK" transform="translate(19.762 35.308)" fill="#696969" font-size="36" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">DK</tspan></text>
+        <text id="Movil" transform="translate(-0.238 83.308)" fill="#696969" font-size="35" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">Movil</tspan></text>
+      </g>
+      <g id="car" transform="translate(25 70)">
+        <g id="Grupo_1" data-name="Grupo 1">
+          <path id="Trazado_1" data-name="Trazado 1" d="M263.613,171.948l-22.338-10.2-19.717-31.456a31.059,31.059,0,0,0-26.5-14.588h-84a31.338,31.338,0,0,0-24.9,12.252L60.689,161.292,18.235,172.917A24.894,24.894,0,0,0,0,196.907v16.241a24.881,24.881,0,0,0,24.675,25.073h3.647a31.644,31.644,0,0,0,61.259,0h95.735a31.644,31.644,0,0,0,61.259,0h6.838a24.881,24.881,0,0,0,24.675-25.073v-18.52A24.831,24.831,0,0,0,263.613,171.948ZM58.923,250.416a20.23,20.23,0,1,1,20.23-20.23A20.234,20.234,0,0,1,58.923,250.416Zm156.994,0a20.23,20.23,0,1,1,20.23-20.23A20.234,20.234,0,0,1,215.916,250.416Zm37.5-23.592h-6.04a31.647,31.647,0,0,0-62.912,0H90.378a31.647,31.647,0,0,0-62.912,0H24.618A13.452,13.452,0,0,1,11.34,213.148V196.907a13.425,13.425,0,0,1,9.858-13.05L65.59,171.72a5.561,5.561,0,0,0,3.02-2.051l26.555-34.818a20.142,20.142,0,0,1,15.9-7.75h84a19.63,19.63,0,0,1,16.868,9.232l20.629,32.937a5.618,5.618,0,0,0,2.45,2.165l23.82,10.884a13.417,13.417,0,0,1,7.807,12.309v18.52h.057A13.452,13.452,0,0,1,253.413,226.825Z" transform="translate(0 -115.703)" fill="#97bb1f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
